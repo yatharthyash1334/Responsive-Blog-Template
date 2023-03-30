@@ -1,1 +1,1 @@
-# Responsive-Blog-Template
+Blog-Template
